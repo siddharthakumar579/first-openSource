@@ -1,2 +1,2 @@
 # first open-source
-A test repo to learn Pull request
+A test repo to learn Pull request.
